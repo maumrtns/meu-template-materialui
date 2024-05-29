@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 30vmin;   
   pointer-events: none;
 }
 
@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #40e0d0; /* Alterado de #282c34 para azul-turquesa #40e0d0 */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +25,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #61dafb; /* Alterado de #61dafb para cor Azul #0000FF */
 }
 
 @keyframes App-logo-spin {
